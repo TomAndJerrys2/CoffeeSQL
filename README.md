@@ -13,4 +13,3 @@ A Simple tool for connecting to databases and manipulating data
 - Supports JSON read/write operations
 
 Built into the Coffee OS with MySQL/PostgreSQL as a Custom Database access and modifying tool
-
