@@ -1,4 +1,4 @@
-# Coffee SQL / SpringBoot
+# Coffee SQL
 
 ![coffeesql](https://github.com/user-attachments/assets/651a4c7b-f3be-4a2a-a1cc-91f3b628080d)
 
